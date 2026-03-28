@@ -1,3 +1,4 @@
+# Pinned for NumPy 2.x compatibility with HuggingFace datasets
 a2a-sdk==0.3.25
 absl-py==1.4.0
 accelerate==1.12.0
